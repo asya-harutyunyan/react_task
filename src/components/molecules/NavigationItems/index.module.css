@@ -1,0 +1,25 @@
+.article {
+  height: 100vh;
+  width: 160px;
+  background-color: #ffe4d6;
+}
+
+.nav_item {
+  list-style: none;
+  height: 100%;
+  margin-top: 50px;
+}
+
+.link {
+  margin: 0;
+  border: none;
+  cursor: pointer;
+}
+.icon {
+  height: 48px;
+  width: 48px;
+  color: rgb(226, 141, 155);
+}
+.icon:hover {
+  color: rgb(145, 85, 145);
+}

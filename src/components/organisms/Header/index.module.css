@@ -1,0 +1,40 @@
+.header {
+  height: 100px;
+  width: 100%;
+  background-color: #fff;
+  padding-top: 64px;
+}
+h1 {
+  margin-left: 99px;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 58.51px;
+  color: #000;
+}
+.header_list {
+  margin-right: 99px;
+  display: flex;
+  gap: 50px;
+}
+.nav_item {
+  list-style: none;
+  height: 100%;
+  margin-top: 50px;
+}
+
+.link {
+  margin: 0;
+  border: none;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29.26px;
+  color: #cbb1a2;
+  text-decoration: none;
+}
+.link:focus {
+  color: rgb(145, 85, 145);
+}
+.link:active {
+  color: rgb(145, 85, 145);
+}
